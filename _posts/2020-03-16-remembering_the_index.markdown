@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Remembering the Index"
-date:       2020-03-16 06:24:36 +0000
+date:       2020-03-16 02:24:37 -0400
 permalink:  remembering_the_index
 ---
 
